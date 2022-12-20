@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:100,200regular700,italic,700italic');
+.todoForm {
+	display: flex;
+	align-items: center;
+	width: 400px;
+	height: 100%;
+	gap: 2px;
+}
+.App {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+ul {
+	list-style: none;
+	padding: 0;
+	margin-left: 5px;
+}
+
+.listItems {
+	display: flex;
+	align-items: center;
+	width: 400px;
+	height: 100%;
+}
